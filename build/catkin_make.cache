@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/ankit/ros_project_dependencies_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ankit/ros_project_dependencies_ws/install -G Unix Makefiles

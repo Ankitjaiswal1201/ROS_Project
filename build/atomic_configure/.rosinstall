@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ankit/ros_project_dependencies_ws/devel/setup.sh
