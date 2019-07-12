@@ -1,6 +1,3 @@
-# ROS_Project
-Hobby Projects on ROS
-
 
 # ROS_Project
 
