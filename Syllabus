@@ -1,0 +1,22 @@
+Basic of ROS from the book "A Gentle Introduction to ROS"
+
+1 ***Introduction
+In which we introduce ROS, describe how it can be useful, and preview the remainder of the book.
+2 Getting started
+In which we install ROS, introduce some basic ROS concepts, and interact with a working ROS system. 
+3 Writing ROS programs
+In which we write ROS programs to publish and subscribe to messages. 
+4 Log messages
+In which we generate and view log messages. 
+5 Graph resource names
+In which we learn how ROS resolves the names of nodes, topics, parameters, and services.
+
+6 Launch files
+In which we configure and run many nodes at once using launch files.
+
+7 Parameters
+In which we configure nodes using parameters. 
+8 Services
+In which we call services and respond to service requests. 
+9 Recording and replaying messages
+In which we use bag files to record and replay messages.
