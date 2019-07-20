@@ -1,5 +1,6 @@
 ## Basic of ROS from the book "A Gentle Introduction to ROS"
 
+** 1-2 Weeks **
 1) ** Introduction & Getting Started ** :-In which we introduce ROS, describe how it can be useful, install ROS, introduce some
 basic ROS concepts, and interact with a working ROS system. 
 2) ** Writing ROS programs and generate Log messages **
